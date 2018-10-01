@@ -7,6 +7,8 @@
         <module name="AvoidStarImport">
             <property name="severity" value="warning" />
         </module>
-        <module name="dk.cphbusiness.checks.AntiHungarianCheck"/>
+        <module name="dk.cphbusiness.checks.AntiHungarianCheck">
+            <property name="severity" value="warning" />
+        </module>
     </module>
 </module>
