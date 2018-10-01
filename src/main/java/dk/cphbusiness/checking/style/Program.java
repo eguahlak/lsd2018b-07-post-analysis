@@ -10,5 +10,6 @@ public class Program {
         List<String> names = new ArrayList<>();
         names.add("Kurt");
         names.add("Sonja");
+        System.out.println(names);
         }
     }

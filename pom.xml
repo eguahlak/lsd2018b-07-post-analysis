@@ -52,11 +52,7 @@
                         <version>1.0-SNAPSHOT</version>
                     </dependency>
                 </dependencies>
-                <!-- configuration>
-                    <configLocation>checkstyle.xml</configLocation>
-                </configuration -->
             </plugin>
-  
         </plugins>
     </build>
     <dependencies>
